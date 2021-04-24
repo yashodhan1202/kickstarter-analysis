@@ -13,7 +13,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Analysis of Outcomes Based on Launch Date
     The analysis based on launch dates was conducted on the monthly dataset for the parent category "Theater" across the years given in the dataset.
-    
+        
     Based on the chart above the following analysis can be drawn
     - The month of May has the highest successful outcomes; likewise the month of Dec has the least successful outcomes
     - The failed outcomes are more than the successful outcomes only in the month of Dec  
