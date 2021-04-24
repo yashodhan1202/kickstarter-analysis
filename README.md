@@ -12,13 +12,14 @@ Performing analysis on Kickstarter data to uncover trends
 ## **Analysis and Challenges**
 
 ### Analysis of Outcomes Based on Launch Date
-    The analysis based on launch dates was conducted on the monthly dataset for the parent category "Theater" across the years given in the dataset.
+   ![Theater_Outcomes_vs_Launch.png](https://github.com/yashodhan1202/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)    
+   The analysis based on launch dates was conducted on the monthly dataset for the parent category "Theater" across the years given in the dataset.
      
     Based on the chart above the following analysis can be drawn
     - The month of May has the highest successful outcomes; likewise the month of Dec has the least successful outcomes
     - The failed outcomes are more than the successful outcomes only in the month of Dec  
     - The likelyhood of the campaign getting cancelled as compared to being successful or failed is very low based on the outcomes
-![Theater_Outcomes_vs_Launch.png](https://github.com/yashodhan1202/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)     
+    
 ### Analysis of Outcomes Based on Goals
     The analysis based on goals was conducted on the dataset for subcategory "plays" of the Kickstarter datatset
     
