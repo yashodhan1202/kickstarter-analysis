@@ -21,9 +21,9 @@ Performing analysis on Kickstarter data to uncover trends
     - The likelyhood of the campaign getting cancelled as compared to being successful or failed is very low based on the outcomes
     
 ### Analysis of Outcomes Based on Goals
-    The analysis based on goals was conducted on the dataset for subcategory "plays" of the Kickstarter datatset
     
-    Based on the chart above the following analysis can be drawn
+    The analysis based on goals was conducted on the dataset for subcategory "plays" of the Kickstarter datatset
+        Based on the chart above the following analysis can be drawn
     - Percentage of number of successful plays is higher than the number of failed plays when the goal range is less than a $ 1000 to $ 14999 and between $ 35000 to $ 44999
     - There are no cancelled projects in the given dataset for the ranges specified
     - There are only two outcomes for the given dataset which either successful or failed
